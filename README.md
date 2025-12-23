@@ -11,7 +11,7 @@ A beautiful, modern expense tracking application with real-time analytics and st
 - 📱 **Fully Responsive** - Works on all devices
 - 🎨 **Beautiful UI** - Modern gradients and smooth animations
 
-## 🚀 Quick Start
+# 🚀 Quick Start
 
 ```bash
 # Install dependencies
