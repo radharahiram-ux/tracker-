@@ -2,7 +2,7 @@
 
 A beautiful, modern expense tracking application with real-time analytics and stunning UI/UX.
 
-## ✨ Features
+# ✨ Features
 
 - 📊 **Real-time Dashboard** - Live income, expenses, and balance tracking
 - 📈 **Visual Analytics** - Area charts, pie charts, and bar graphs
