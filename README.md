@@ -24,7 +24,7 @@ npm run dev
 http://localhost:5173
 ```
 
-## 📦 Tech Stack
+# 📦 Tech Stack
 
 - **React 18** - UI framework
 - **Recharts** - Data visualization
