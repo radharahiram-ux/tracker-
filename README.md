@@ -61,7 +61,7 @@ http://localhost:5173
 
 ## 🔧 Customization
 
-### Change Colors
+## Change Colors
 ```javascript
 // Update gradient classes
 from-purple-500 to-pink-500
