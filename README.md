@@ -67,7 +67,7 @@ http://localhost:5173
 from-purple-500 to-pink-500
 ```
 
-### Add Categories
+## Add Categories
 ```javascript
 const newCategory = {
   name: 'Education',
