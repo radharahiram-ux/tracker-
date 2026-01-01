@@ -77,7 +77,7 @@ const newCategory = {
 };
 ```
 
-### Modify Budget
+## Modify Budget
 ```javascript
 const [budget, setBudget] = useState(5000); // Change amount
 ```
